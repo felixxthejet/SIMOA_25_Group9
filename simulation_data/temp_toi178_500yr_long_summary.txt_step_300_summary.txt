@@ -1,0 +1,14 @@
+TOI-178 Simulation Summary
+========================
+
+Saved: 2025-10-17T18:43:06.723593
+Simulation time: 0.0 - 300.0 years
+Time steps: 301
+Particles: 1000 test particles + 6 planets + 1 star
+
+Metadata:
+  checkpoint: True
+  step: 300
+  total_steps: 500
+  t_end: 500
+  status: in_progress

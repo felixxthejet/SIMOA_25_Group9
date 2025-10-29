@@ -1,5 +1,5 @@
 # Ignore large simulation data files (too big for GitHub)
-simulation_data/*.pkl
+simulation_data/**/*.pkl
 
 # Ignore macOS system files
 .DS_Store

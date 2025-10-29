@@ -1,0 +1,14 @@
+TOI-178 Simulation Summary
+========================
+
+Saved: 2025-10-22T16:21:20.577564
+Simulation time: 0.0 - 1000.0 years
+Time steps: 501
+Particles: 2002 test particles + 6 planets + 1 star
+
+Metadata:
+  simulation_type: TOI-178 particle dynamics
+  t_end: 1000
+  n_steps: 500
+  dt: 2.0
+  status: completed

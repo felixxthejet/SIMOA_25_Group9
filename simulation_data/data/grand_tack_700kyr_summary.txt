@@ -1,0 +1,17 @@
+Grand Tack Simulation Summary
+======================================================================
+
+Saved: 2025-10-29T15:01:08.449261
+Simulation time: 0 - 700000 years
+Time steps: 701
+
+Initial conditions:
+  Jupiter: 3.5 au at 1.0 MJupiter
+  Saturn: 4.5 au at 0.3 MJupiter
+
+Final state:
+  Jupiter: -35.37 AU
+  Saturn: -24.40 AU
+  Period ratio: 0.573
+
+3:2 Resonance captured at t = 100 yr

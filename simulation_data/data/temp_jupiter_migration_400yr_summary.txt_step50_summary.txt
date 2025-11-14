@@ -1,0 +1,26 @@
+Jupiter Migration & Asteroid Dynamics Simulation Summary
+=======================================================
+
+Saved: 2025-11-14T11:11:15.499792
+Simulation time: 0.0 - 200.0 years
+Time steps: 51
+Particles: 9998 test particles (asteroids)
+
+Final Planetary Positions (t = 200.0 years):
+----------------------------------------------------------------------
+Body            Semi-major axis (AU) X (AU)       Y (AU)      
+----------------------------------------------------------------------
+                0.0099               0.0177       -0.0087     
+Jupiter         2.5035               -4.1558      2.3783      
+Saturn          9.4317               3.9676       -9.0743     
+Uranus          19.3369              15.7555      -12.5171    
+Neptune         30.1742              25.4434      -15.6895    
+----------------------------------------------------------------------
+
+Simulation Metadata:
+----------------------------------------
+  checkpoint: True
+  step: 50
+  total_steps: 100
+  tend: 400
+  status: in_progress
